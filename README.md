@@ -7,7 +7,7 @@
 [![Quality Score][ico-code-quality]][link-code-quality]
 [![Total Downloads][ico-downloads]][link-downloads]
 
-This is a simple component for CakePHP 3 which injects pagination information
+This is a simple component for CakePHP 4 which injects pagination information
 from CakePHP's Paginator into serialized JsonView and XmlView responses.
 
 ## Install
@@ -160,4 +160,4 @@ information.
 [link-downloads]: https://packagist.org/packages/bcrowe/cakephp-api-pagination
 [link-author]: https://github.com/bcrowe
 [link-contributors]: ../../contributors
-[link-dataviews]: http://book.cakephp.org/3.0/en/views/json-and-xml-views.html#enabling-data-views-in-your-application
+[link-dataviews]: http://book.cakephp.org/4.0/en/views/json-and-xml-views.html#enabling-data-views-in-your-application
